@@ -1,0 +1,11 @@
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\obj\Debug\CatiaCamshaft.csprojResolveAssemblyReference.cache
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\CatiaCamshaft.exe.config
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\CatiaCamshaft.exe
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\CatiaCamshaft.pdb
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\Interop.INFITF.dll
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\Interop.MECMOD.dll
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\Interop.PARTITF.dll
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\Interop.KnowledgewareTypeLib.dll
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\bin\Debug\Interop.ProductStructureTypeLib.dll
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\obj\Debug\CatiaCamshaft.exe
+C:\Users\cd\Documents\SharpDevelop Projects\CatiaCamshaft\CatiaCamshaft\obj\Debug\CatiaCamshaft.pdb
